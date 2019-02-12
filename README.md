@@ -4,6 +4,6 @@
 * Css - Animate ( For transistions ) 
 * Bootstrap 4.0.0 - alpha.4.X
 
-<img src="https://media.giphy.com/media/9AIBE1kBta3O8qbGCa/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/9AIBE1kBta3O8qbGCa/giphy.gif" />
 
 
